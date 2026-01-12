@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CourierApp/CourierApp.csproj" />
+  <Project Path="CourierAppUnitTests/CourierAppUnitTests.csproj" />
+</Solution>
